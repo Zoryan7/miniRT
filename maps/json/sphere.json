@@ -1,0 +1,33 @@
+{
+    "camera" :
+    {
+        "coordinates" : [0, 0, 0],
+        "normal" : [0, 0, 1],
+        "fov" : 110
+    },
+    "ambient" :
+    {
+        "brightness" : 0.5,
+        "color" : [100, 100, 255]
+    },
+    "light" :
+    {
+        "coordinates" : [0, 40, -50],
+        "brightness" : 1,
+        "radius" : 10,
+        "color" : [255, 255, 255]
+    },
+    "sphere" :
+    {
+        "coordinates" : [0, 0, 20],
+        "diameter" : 10,
+        "color" : [255, 255, 255],
+        "texture" : "texture/uranus.xpm"
+    },
+    "plane" :
+    {
+        "coordinates" : [0, -40, 0],
+        "normal" : [0, 1, 0],
+        "color" : [255, 255, 255]
+    }
+}
