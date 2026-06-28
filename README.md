@@ -149,6 +149,17 @@ Common actions:
 - Mouse movement to rotate the camera when rotation is enabled
 - `Esc` to quit
 
+## Exemples
+
+Saturne : (1 million object)
+![alt text](image.png)
+
+Reflection / Refraction :
+![alt text](image-1.png)
+
+3D objects : (using vertex, more than 100K triangle)
+![alt text](image-2.png)
+
 ## Resources
 
 - Ray tracing and rendering
