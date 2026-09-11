@@ -4,7 +4,7 @@
 
 ## Description
 
-MiniRT is a ray tracing project written in C for Linux.
+MiniRT is a path tracing project written in C for Linux.
 
 The program reads a scene file, builds the scene, and renders it in a MiniLibX window using ray/object intersections, shading, shadows, textures, bump maps, and several rendering options. The codebase is organized around parsing, BVH acceleration, intersection handling, normals, UV mapping, rendering, threading, and an in-app interface for scene/control management.
 
